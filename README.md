@@ -1,1 +1,21 @@
+EEG Brainwave Analysis
 <img width="832" height="477" alt="image" src="https://github.com/user-attachments/assets/47b59534-4aa6-4e97-b6ae-177bda32baf1" />
+<img width="821" height="466" alt="image" src="https://github.com/user-attachments/assets/c17ec1af-b900-4fe2-ac52-0dd513e9ded7" />
+<img width="816" height="478" alt="image" src="https://github.com/user-attachments/assets/19fe1ffd-7b07-413e-bcfc-175d4bbdbbe2" />
+<img width="811" height="502" alt="image" src="https://github.com/user-attachments/assets/fb150c93-3afb-40db-ad4f-421a91c5d0b2" />
+<img width="802" height="510" alt="image" src="https://github.com/user-attachments/assets/11f4556f-7b8d-48e3-8d44-6831ee8b0245" />
+<img width="802" height="473" alt="image" src="https://github.com/user-attachments/assets/74b3165c-6870-4bce-942c-8eb22310311e" />
+<img width="823" height="460" alt="image" src="https://github.com/user-attachments/assets/31790c97-c106-4bb9-80a0-587fd4ca9de1" />
+<img width="822" height="478" alt="image" src="https://github.com/user-attachments/assets/7efbe096-04b9-4118-a370-4431f4ce468f" />
+<img width="786" height="417" alt="image" src="https://github.com/user-attachments/assets/0f1aa13b-7861-451b-9bf3-d167e898f847" />
+<img width="792" height="467" alt="image" src="https://github.com/user-attachments/assets/bafe1410-3336-4f78-b5d3-7fcf1eeec408" />
+<img width="818" height="435" alt="image" src="https://github.com/user-attachments/assets/24c5d506-49a3-4f40-be58-604dfcf5517b" />
+<img width="830" height="432" alt="image" src="https://github.com/user-attachments/assets/2cfc498e-2530-4264-b69d-297689edb056" />
+<img width="817" height="462" alt="image" src="https://github.com/user-attachments/assets/a586f21b-8c42-465f-9c12-ae62278b1a0e" />
+<img width="828" height="437" alt="image" src="https://github.com/user-attachments/assets/f24311d8-6d3c-445c-888f-5c2b60ba3197" />
+<img width="827" height="457" alt="image" src="https://github.com/user-attachments/assets/5a857d69-1e63-4909-b5cf-8216e9b03b5b" />
+<img width="801" height="440" alt="image" src="https://github.com/user-attachments/assets/d7a600c3-c5ee-4697-a744-a6e373166470" />
+<img width="821" height="457" alt="image" src="https://github.com/user-attachments/assets/6261e32b-e6c2-4de4-86f3-d8b25dde28b0" />
+<img width="810" height="460" alt="image" src="https://github.com/user-attachments/assets/13d900eb-ae80-4d60-8302-d2dc4593746e" />
+<img width="807" height="452" alt="image" src="https://github.com/user-attachments/assets/3856b241-f85d-40af-bcfb-6149864397b9" />
+<img width="817" height="455" alt="image" src="https://github.com/user-attachments/assets/c03f6811-a929-43c6-b59d-cc4a20d87276" />
